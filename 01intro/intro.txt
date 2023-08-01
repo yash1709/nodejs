@@ -1,0 +1,34 @@
+What  is Node JS ?
+-> Node is not a language.
+-> This is a Server Environment.
+-> Node js can connect with a database.
+-> Code and Syntax is very similar to JavaScript.
+-> But not exactly same.
+-> Node JS is free , open source.
+-> Node JS use Chrome's V8 engine to execute code.
+
+
+Why do we use Node ?
+-> Node JS mostly used for API.
+-> Node is super-fast for API's.
+-> With Node and JavaScript , you can become a full Stack developer.
+
+
+BASICS
+-> Client _____________ Server Sides
+        ------->Request
+        <-------Response
+
+
+What developer make with Node JS ?
+-> Developers make AOI with Node JS.
+-> So we can connect Server with Client.
+-> Node can make API for web , Android and IOS etc.
+-> It can also make Website.
+
+
+Node JS is async
+-> 1. Run First Script
+-> 2. Run Second Script (complex data)
+-> 3. Run Third Script
+-> 4. continue......
